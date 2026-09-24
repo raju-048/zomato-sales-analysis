@@ -1,0 +1,201 @@
+restaurant_id,restaurant_name,cuisine,city,avg_rating
+R0001,Chaayos,Fast Food,Hyderabad,4.50
+R0002,Chaayos,North Indian,Gurugram,4.50
+R0003,Barbeque Nation,Pizza,Chennai,4.10
+R0004,KFC,Pizza,Pune,4.40
+R0005,Pizza Hut,North Indian,Mumbai,5.00
+R0006,Burger King,Healthy,Noida,4.60
+R0007,Barbeque Nation,Cafe,Hyderabad,4.60
+R0008,Chaayos,Pizza,Delhi,3.70
+R0009,Biryani By Kilo,Healthy,Pune,4.00
+R0010,Burger King,Fast Food,Noida,4.60
+R0011,Barbeque Nation,North Indian,Pune,4.80
+R0012,McDonald's,North Indian,Bengaluru,4.10
+R0013,Biryani By Kilo,Fast Food,Gurugram,4.00
+R0014,KFC,Pizza,Mumbai,4.20
+R0015,McDonald's,Healthy,Pune,3.70
+R0016,Burger King,Pizza,Chennai,4.70
+R0017,Domino's Pizza,Biryani,Chennai,4.70
+R0018,Burger King,Cafe,Chennai,5.00
+R0019,Chaayos,Pizza,Bengaluru,4.50
+R0020,Burger King,Fast Food,Noida,4.90
+R0021,Barbeque Nation,Fast Food,Mumbai,4.40
+R0022,Behrouz Biryani,North Indian,Chennai,3.90
+R0023,Starbucks,Fast Food,Mumbai,4.10
+R0024,Biryani By Kilo,Pizza,Noida,3.80
+R0025,Haldiram's,Fast Food,Pune,4.80
+R0026,Haldiram's,Biryani,Delhi,3.50
+R0027,KFC,Fast Food,Pune,4.20
+R0028,Haldiram's,Fast Food,Hyderabad,4.80
+R0029,Biryani By Kilo,Fast Food,Pune,4.00
+R0030,Chaayos,Cafe,Noida,4.50
+R0031,Burger King,North Indian,Chennai,4.60
+R0032,Barbeque Nation,Cafe,Gurugram,4.00
+R0033,McDonald's,Cafe,Chennai,4.30
+R0034,Pizza Hut,Healthy,Noida,4.30
+R0035,Pizza Hut,Biryani,Hyderabad,4.60
+R0036,Subway,Healthy,Pune,4.50
+R0037,Barbeque Nation,North Indian,Pune,4.70
+R0038,Haldiram's,Pizza,Mumbai,4.50
+R0039,Starbucks,North Indian,Mumbai,3.60
+R0040,Behrouz Biryani,Cafe,Gurugram,4.40
+R0041,McDonald's,North Indian,Noida,4.20
+R0042,Chaayos,North Indian,Chennai,4.80
+R0043,Haldiram's,North Indian,Bengaluru,4.60
+R0044,Starbucks,Pizza,Delhi,3.60
+R0045,Biryani By Kilo,Cafe,Mumbai,4.00
+R0046,KFC,North Indian,Delhi,4.30
+R0047,Starbucks,Cafe,Pune,3.50
+R0048,Chaayos,Biryani,Pune,4.00
+R0049,Barbeque Nation,Fast Food,Bengaluru,4.10
+R0050,Subway,Cafe,Mumbai,3.60
+R0051,Burger King,Cafe,Gurugram,4.90
+R0052,Behrouz Biryani,Pizza,Pune,3.90
+R0053,Starbucks,Cafe,Chennai,4.50
+R0054,Domino's Pizza,Pizza,Hyderabad,4.10
+R0055,Chaayos,Biryani,Bengaluru,4.60
+R0056,KFC,North Indian,Bengaluru,4.00
+R0057,Behrouz Biryani,Cafe,Bengaluru,4.90
+R0058,KFC,Cafe,Hyderabad,3.70
+R0059,Pizza Hut,Biryani,Hyderabad,4.20
+R0060,Domino's Pizza,Biryani,Hyderabad,5.00
+R0061,Subway,Biryani,Delhi,4.50
+R0062,Subway,Pizza,Chennai,3.60
+R0063,Burger King,North Indian,Pune,3.70
+R0064,Chaayos,Pizza,Delhi,4.60
+R0065,Burger King,Cafe,Gurugram,3.50
+R0066,Domino's Pizza,Healthy,Mumbai,4.80
+R0067,Haldiram's,Healthy,Delhi,4.70
+R0068,Barbeque Nation,Biryani,Chennai,4.40
+R0069,Pizza Hut,Fast Food,Noida,4.70
+R0070,Chaayos,Pizza,Noida,4.40
+R0071,Behrouz Biryani,Cafe,Bengaluru,4.20
+R0072,Biryani By Kilo,Pizza,Bengaluru,4.40
+R0073,McDonald's,North Indian,Bengaluru,3.60
+R0074,Starbucks,North Indian,Gurugram,4.20
+R0075,Barbeque Nation,Fast Food,Gurugram,4.20
+R0076,McDonald's,Fast Food,Noida,4.60
+R0077,Biryani By Kilo,Pizza,Hyderabad,4.00
+R0078,Biryani By Kilo,Healthy,Hyderabad,4.30
+R0079,Haldiram's,North Indian,Bengaluru,3.80
+R0080,McDonald's,Fast Food,Delhi,4.50
+R0081,Starbucks,Pizza,Noida,3.70
+R0082,Chaayos,Pizza,Hyderabad,4.90
+R0083,Starbucks,Pizza,Chennai,4.70
+R0084,Behrouz Biryani,North Indian,Hyderabad,4.50
+R0085,Domino's Pizza,Fast Food,Delhi,3.70
+R0086,Biryani By Kilo,Biryani,Noida,4.80
+R0087,Haldiram's,Cafe,Bengaluru,4.20
+R0088,Barbeque Nation,North Indian,Chennai,3.90
+R0089,Starbucks,Healthy,Noida,3.50
+R0090,Starbucks,Cafe,Hyderabad,4.00
+R0091,Chaayos,Pizza,Bengaluru,4.50
+R0092,Biryani By Kilo,Fast Food,Gurugram,3.70
+R0093,Haldiram's,Biryani,Noida,4.80
+R0094,Domino's Pizza,Healthy,Delhi,4.60
+R0095,McDonald's,Pizza,Mumbai,4.10
+R0096,Burger King,Biryani,Gurugram,4.80
+R0097,Haldiram's,Fast Food,Delhi,3.80
+R0098,Behrouz Biryani,North Indian,Gurugram,3.80
+R0099,Chaayos,Fast Food,Pune,4.90
+R0100,Burger King,Fast Food,Chennai,3.80
+R0101,Chaayos,Biryani,Mumbai,3.60
+R0102,Starbucks,Fast Food,Noida,4.90
+R0103,Haldiram's,Pizza,Chennai,4.90
+R0104,Subway,Fast Food,Hyderabad,4.40
+R0105,McDonald's,Healthy,Mumbai,4.00
+R0106,Biryani By Kilo,Pizza,Pune,4.20
+R0107,KFC,North Indian,Bengaluru,4.20
+R0108,Behrouz Biryani,North Indian,Hyderabad,4.70
+R0109,Pizza Hut,Healthy,Chennai,3.90
+R0110,Domino's Pizza,North Indian,Chennai,3.80
+R0111,Biryani By Kilo,Cafe,Chennai,3.50
+R0112,KFC,Healthy,Pune,4.60
+R0113,Burger King,Healthy,Mumbai,4.70
+R0114,Chaayos,North Indian,Mumbai,4.10
+R0115,Burger King,Biryani,Gurugram,4.90
+R0116,Haldiram's,Healthy,Delhi,4.60
+R0117,Behrouz Biryani,Pizza,Mumbai,4.20
+R0118,Barbeque Nation,North Indian,Chennai,5.00
+R0119,Starbucks,Biryani,Pune,4.00
+R0120,Biryani By Kilo,North Indian,Hyderabad,4.10
+R0121,Burger King,Cafe,Bengaluru,3.90
+R0122,Barbeque Nation,Healthy,Bengaluru,4.40
+R0123,Domino's Pizza,Fast Food,Delhi,4.70
+R0124,Barbeque Nation,Pizza,Gurugram,3.80
+R0125,Biryani By Kilo,Cafe,Noida,4.10
+R0126,Haldiram's,Fast Food,Gurugram,4.30
+R0127,Domino's Pizza,Cafe,Noida,4.50
+R0128,KFC,Fast Food,Hyderabad,3.60
+R0129,Biryani By Kilo,Pizza,Hyderabad,4.20
+R0130,Behrouz Biryani,Pizza,Mumbai,3.70
+R0131,KFC,Fast Food,Delhi,3.80
+R0132,Pizza Hut,Healthy,Hyderabad,4.30
+R0133,Burger King,Cafe,Pune,4.10
+R0134,Behrouz Biryani,Healthy,Delhi,3.90
+R0135,KFC,Fast Food,Noida,4.80
+R0136,Haldiram's,North Indian,Delhi,4.60
+R0137,Pizza Hut,Biryani,Chennai,4.00
+R0138,Domino's Pizza,Cafe,Hyderabad,4.20
+R0139,McDonald's,North Indian,Bengaluru,4.90
+R0140,Subway,Biryani,Gurugram,4.40
+R0141,Starbucks,Biryani,Noida,4.50
+R0142,Chaayos,Biryani,Chennai,3.70
+R0143,Domino's Pizza,North Indian,Pune,4.10
+R0144,Behrouz Biryani,Pizza,Gurugram,3.60
+R0145,Behrouz Biryani,Fast Food,Bengaluru,4.50
+R0146,Starbucks,Fast Food,Delhi,4.40
+R0147,Biryani By Kilo,Biryani,Pune,4.20
+R0148,Domino's Pizza,North Indian,Chennai,4.50
+R0149,Barbeque Nation,Pizza,Gurugram,4.90
+R0150,Biryani By Kilo,Biryani,Mumbai,4.10
+R0151,Domino's Pizza,Healthy,Delhi,4.50
+R0152,Haldiram's,Cafe,Delhi,4.00
+R0153,Domino's Pizza,Cafe,Pune,4.20
+R0154,Behrouz Biryani,Biryani,Pune,4.90
+R0155,McDonald's,Cafe,Noida,4.70
+R0156,Burger King,North Indian,Pune,3.70
+R0157,Biryani By Kilo,Fast Food,Pune,4.10
+R0158,Haldiram's,Cafe,Noida,3.80
+R0159,KFC,Pizza,Gurugram,4.60
+R0160,Starbucks,Healthy,Gurugram,3.80
+R0161,Pizza Hut,Healthy,Chennai,3.90
+R0162,Domino's Pizza,Biryani,Pune,4.00
+R0163,Burger King,Healthy,Bengaluru,3.80
+R0164,Pizza Hut,Healthy,Mumbai,4.80
+R0165,Chaayos,North Indian,Noida,4.80
+R0166,Domino's Pizza,Cafe,Hyderabad,4.90
+R0167,Starbucks,Healthy,Delhi,3.80
+R0168,Barbeque Nation,Healthy,Chennai,4.20
+R0169,Behrouz Biryani,Healthy,Noida,4.30
+R0170,Barbeque Nation,North Indian,Chennai,4.60
+R0171,Pizza Hut,Fast Food,Delhi,4.50
+R0172,Subway,Pizza,Hyderabad,4.40
+R0173,Behrouz Biryani,North Indian,Hyderabad,4.80
+R0174,Barbeque Nation,Biryani,Noida,3.80
+R0175,Barbeque Nation,Pizza,Delhi,3.80
+R0176,Behrouz Biryani,Pizza,Delhi,4.90
+R0177,Domino's Pizza,North Indian,Chennai,4.00
+R0178,Behrouz Biryani,North Indian,Chennai,4.40
+R0179,Subway,Cafe,Delhi,4.30
+R0180,KFC,North Indian,Hyderabad,3.70
+R0181,Subway,Fast Food,Hyderabad,4.60
+R0182,Chaayos,North Indian,Hyderabad,3.50
+R0183,KFC,Biryani,Chennai,4.00
+R0184,KFC,Pizza,Gurugram,3.50
+R0185,Barbeque Nation,Cafe,Chennai,4.40
+R0186,Chaayos,Pizza,Gurugram,4.30
+R0187,Pizza Hut,North Indian,Chennai,4.30
+R0188,Behrouz Biryani,Fast Food,Gurugram,4.60
+R0189,Domino's Pizza,Fast Food,Delhi,4.30
+R0190,Biryani By Kilo,Healthy,Noida,3.60
+R0191,Barbeque Nation,Pizza,Chennai,4.80
+R0192,Haldiram's,Fast Food,Noida,5.00
+R0193,McDonald's,Pizza,Delhi,4.20
+R0194,Haldiram's,Fast Food,Chennai,4.80
+R0195,Burger King,North Indian,Pune,4.60
+R0196,Burger King,Healthy,Pune,3.70
+R0197,Subway,Healthy,Hyderabad,4.30
+R0198,McDonald's,Healthy,Bengaluru,3.70
+R0199,Burger King,Biryani,Mumbai,4.00
+R0200,Pizza Hut,Fast Food,Mumbai,3.80
